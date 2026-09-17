@@ -1,0 +1,10 @@
+*.htm linguist-vendored
+*.ts linguist-detectable
+* text=auto
+public/index.html linguist-vendored
+
+*.gif binary
+*.jpg binary
+
+*.tsx linguist-detectable
+# eof bdb88de0
