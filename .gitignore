@@ -1,0 +1,7 @@
+.pnpm-store/
+.DS_Store
+.next/
+npm-debug.log*
+*.tgz
+build/
+.env.local
